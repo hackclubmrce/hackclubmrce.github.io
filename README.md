@@ -1,3 +1,3 @@
-# hackclubmrce.githubpages.io
+# hackclubmrce.github.io
 
 test 1
